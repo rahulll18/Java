@@ -15,4 +15,5 @@ public class Add {
 
         System.out.println("Sum is :- " + (num1 + num2));
     }
+
 }
